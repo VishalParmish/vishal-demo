@@ -1,1 +1,1 @@
-Initial content for file.txt
+Different content for file.txt
