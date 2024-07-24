@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Different content for file.txt
+=======
+Initial content for file.txt
+Additional content for file.txt
+>>>>>>> feature-branch
