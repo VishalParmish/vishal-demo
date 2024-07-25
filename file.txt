@@ -4,3 +4,6 @@ Different content for file.txt
 Initial content for file.txt
 Additional content for file.txt
 >>>>>>> feature-branch
+
+I am a student of staragile
+Currently i am persuing devops course from staragile
